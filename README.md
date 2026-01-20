@@ -12,7 +12,8 @@ The goal of this project is to build a regression model that can accurately esti
 - Visualizations for interpretation
 
 ## 📁 Project Structure
-
+```bash
+.
 house_price_model/
 ├── data/ # (Optional) Raw or processed datasets
 ├── model/
@@ -23,6 +24,7 @@ house_price_model/
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
 └── .gitignore # Files and folders to exclude from Git
+```
 
 
 ## 🧠 Model Details
