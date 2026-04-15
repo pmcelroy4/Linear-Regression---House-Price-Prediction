@@ -35,8 +35,7 @@ Some high-level takeaways from the analysis:
 
 ```bash
 housing-price-prediction/
-├── data/
-│   └── housing.csv              # Dataset
+├── housing.csv                  # Dataset
 ├── housing_model.ipynb          # Main notebook (EDA + modeling)
 ├── README.md                    # Project documentation
 ```
